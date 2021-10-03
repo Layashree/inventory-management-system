@@ -22,6 +22,7 @@ FIRST Download
 
 7.Run the script http://localhost/inventory-management-system
 
+NOTE: Change the folder name from "inventory-management-system-main" to "inventory-management-system" before running the script.
 
 **LOGIN DETAILS** 
 
